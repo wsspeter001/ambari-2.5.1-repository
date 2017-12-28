@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 04:44:04 PST 2017
+commons-logging-1.2.jar>maven2-repository.atlassian=
+commons-logging-1.2.pom>maven2-repository.atlassian=
+commons-logging-1.2.pom>apache-hadoop=

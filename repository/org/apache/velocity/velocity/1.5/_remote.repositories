@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 11:16:13 PST 2017
+velocity-1.5.jar>alimaven=
+velocity-1.5.jar>maven2-repository.atlassian=
+velocity-1.5.pom>maven2-repository.atlassian=

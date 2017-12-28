@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 03:23:10 PST 2017
+httpclient-4.1.2.pom>apache-hadoop=
+httpclient-4.1.2.jar>apache-hadoop=
+httpclient-4.1.2.jar>ASF\ Staging=
+httpclient-4.1.2.pom>ASF\ Staging=

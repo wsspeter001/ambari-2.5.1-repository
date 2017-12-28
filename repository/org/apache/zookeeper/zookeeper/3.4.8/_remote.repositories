@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 11:31:34 PST 2017
+zookeeper-3.4.8.pom>apache-hadoop=
+zookeeper-3.4.8.jar>apache-hadoop=

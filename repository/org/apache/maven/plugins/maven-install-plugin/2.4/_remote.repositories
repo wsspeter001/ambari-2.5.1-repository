@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 10:11:25 PST 2017
+maven-install-plugin-2.4.pom>alimaven=
+maven-install-plugin-2.4.pom>maven2-repository.atlassian=
+maven-install-plugin-2.4.jar>alimaven=
+maven-install-plugin-2.4.jar>maven2-repository.atlassian=

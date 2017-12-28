@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 03:24:07 PST 2017
+xz-1.0.pom>apache-hadoop=
+xz-1.0.jar>oss.sonatype.org=
+xz-1.0.jar>apache-hadoop=
+xz-1.0.pom>oss.sonatype.org=

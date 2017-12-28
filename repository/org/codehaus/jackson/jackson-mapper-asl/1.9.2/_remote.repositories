@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:48:13 PST 2017
+jackson-mapper-asl-1.9.2.jar>oss.sonatype.org=
+jackson-mapper-asl-1.9.2.pom>oss.sonatype.org=
+jackson-mapper-asl-1.9.2.pom>apache-hadoop=

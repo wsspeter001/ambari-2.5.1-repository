@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 11:14:59 PST 2017
+checkstyle-6.19.pom>oss.sonatype.org=
+checkstyle-6.19-tests.jar>oss.sonatype.org=
+checkstyle-6.19.jar>oss.sonatype.org=

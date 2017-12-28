@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 01:44:25 PST 2017
+ant-launcher-1.8.2.jar>alimaven=
+ant-launcher-1.8.2.jar>maven2-repository.atlassian=
+ant-launcher-1.8.2.pom>maven2-repository.atlassian=

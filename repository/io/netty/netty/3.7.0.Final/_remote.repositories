@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:48:57 PST 2017
+netty-3.7.0.Final.jar>oss.sonatype.org=
+netty-3.7.0.Final.pom>apache-hadoop=
+netty-3.7.0.Final.jar>apache-hadoop=
+netty-3.7.0.Final.pom>oss.sonatype.org=

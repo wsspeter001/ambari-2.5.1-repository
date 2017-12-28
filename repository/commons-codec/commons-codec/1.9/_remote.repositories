@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 04:44:04 PST 2017
+commons-codec-1.9.jar>maven2-repository.atlassian=
+commons-codec-1.9.pom>apache-hadoop=
+commons-codec-1.9.pom>maven2-repository.atlassian=

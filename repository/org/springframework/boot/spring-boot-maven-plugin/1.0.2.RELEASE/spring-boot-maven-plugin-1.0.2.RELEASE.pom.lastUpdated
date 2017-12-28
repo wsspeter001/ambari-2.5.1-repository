@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 04:01:03 PST 2017
+@default-maven2-repository.dev.java.net-http\://download.java.net/maven/2/.lastUpdated=1514289660312
+http\://download.java.net/maven/glassfish/.lastUpdated=1514289661572
+http\://download.java.net/maven/glassfish/.error=
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:pom\:1.0.2.RELEASE from/to maven2-repository.dev.java.net (http\://download.java.net/maven/2/)\: Read timed out
+https\://maven.atlassian.com/repository/public/.lastUpdated=1514289663605

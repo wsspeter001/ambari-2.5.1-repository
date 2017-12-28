@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 03:13:03 PST 2017
+@default-maven2-repository.dev.java.net-http\://download.java.net/maven/2/.lastUpdated=1514286780558
+http\://download.java.net/maven/glassfish/.lastUpdated=1514286781549
+https\://oss.sonatype.org/content/groups/staging/.error=
+http\://download.java.net/maven/glassfish/.error=
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1514286738543
+http\://download.java.net/maven/2/.error=Could not transfer artifact com.ibm.icu\:icu4j\:pom\:2.6.1 from/to maven2-repository.dev.java.net (http\://download.java.net/maven/2/)\: Connect to download.java.net\:80 [download.java.net/61.213.168.26, download.java.net/61.213.183.160] failed\: Connection refused
+https\://maven.atlassian.com/repository/public/.lastUpdated=1514286783305

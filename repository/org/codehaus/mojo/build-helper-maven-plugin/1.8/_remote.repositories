@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 10:11:23 PST 2017
+build-helper-maven-plugin-1.8.jar>alimaven=
+build-helper-maven-plugin-1.8.pom>maven2-repository.atlassian=
+build-helper-maven-plugin-1.8.pom>alimaven=
+build-helper-maven-plugin-1.8.jar>maven2-repository.atlassian=

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 09:49:59 PST 2017
+ambari-metrics-storm-sink-2.5.0.0.0.pom>=
+ambari-metrics-storm-sink-2.5.0.0.0.jar>=

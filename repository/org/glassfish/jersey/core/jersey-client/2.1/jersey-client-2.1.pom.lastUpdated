@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 04:15:50 PST 2017
+http\://repo.spring.io/milestone/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1514290550318
+https\://oss.sonatype.org/content/groups/staging/.error=
+https\://repository.apache.org/content/groups/staging/.error=
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1514290550007
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1514290548650
+http\://repo.spring.io/milestone/.lastUpdated=1514290548949

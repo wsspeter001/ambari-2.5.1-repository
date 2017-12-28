@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:54:54 PST 2017
+http\://download.java.net/maven/2/.lastUpdated=1514285650873
+@default-maven2-glassfish-repository.dev.java.net-http\://download.java.net/maven/glassfish/.lastUpdated=1514285692883
+https\://oss.sonatype.org/content/groups/staging/.error=
+http\://download.java.net/maven/glassfish/.error=Could not transfer artifact com.google.code.findbugs\:jFormatString\:pom\:2.0.1 from/to maven2-glassfish-repository.dev.java.net (http\://download.java.net/maven/glassfish/)\: Connect to download.java.net\:80 [download.java.net/104.80.88.33, download.java.net/104.80.88.24] failed\: Connection refused
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1514285649096
+http\://download.java.net/maven/2/.error=
+https\://maven.atlassian.com/repository/public/.lastUpdated=1514285694634

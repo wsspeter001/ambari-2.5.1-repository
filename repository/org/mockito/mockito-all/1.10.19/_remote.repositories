@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:33:21 PST 2017
+mockito-all-1.10.19.jar>apache-hadoop=
+mockito-all-1.10.19.pom>apache-hadoop=
+mockito-all-1.10.19.jar>oss.sonatype.org=

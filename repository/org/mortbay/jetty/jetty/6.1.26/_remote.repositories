@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:49:32 PST 2017
+jetty-6.1.26.pom>alimaven=
+jetty-6.1.26.pom>apache-hadoop=
+jetty-6.1.26.jar>apache-hadoop=
+jetty-6.1.26.jar>alimaven=

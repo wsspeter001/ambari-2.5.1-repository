@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 01:44:25 PST 2017
+maven-settings-2.0.11.jar>maven2-repository.atlassian=
+maven-settings-2.0.11.jar>alimaven=
+maven-settings-2.0.11.pom>maven2-repository.atlassian=

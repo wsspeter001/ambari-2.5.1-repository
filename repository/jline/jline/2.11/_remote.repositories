@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:48:57 PST 2017
+jline-2.11.jar>oss.sonatype.org=
+jline-2.11.pom>oss.sonatype.org=
+jline-2.11.pom>apache-hadoop=
+jline-2.11.jar>apache-hadoop=

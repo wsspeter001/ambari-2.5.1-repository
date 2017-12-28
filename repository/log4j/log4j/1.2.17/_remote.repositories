@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:47:53 PST 2017
+log4j-1.2.17.pom>apache-hadoop=
+log4j-1.2.17.pom>oss.sonatype.org=
+log4j-1.2.17.jar>apache-hadoop=
+log4j-1.2.17.jar>oss.sonatype.org=

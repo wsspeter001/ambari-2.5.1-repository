@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:53:35 PST 2017
+@default-maven2-repository.dev.java.net-http\://download.java.net/maven/2/.lastUpdated=1514285613017
+http\://download.java.net/maven/glassfish/.lastUpdated=1514285613742
+https\://oss.sonatype.org/content/groups/staging/.error=
+http\://download.java.net/maven/glassfish/.error=
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1514285571000
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.sonatype.plexus\:plexus-build-api\:pom\:0.0.7 from/to maven2-repository.dev.java.net (http\://download.java.net/maven/2/)\: Connect to download.java.net\:80 [download.java.net/104.80.88.24, download.java.net/104.80.88.33] failed\: Connection refused
+https\://maven.atlassian.com/repository/public/.lastUpdated=1514285615440

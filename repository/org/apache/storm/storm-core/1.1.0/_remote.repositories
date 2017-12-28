@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 01:18:36 PST 2017
+storm-core-1.1.0.jar>apache-hadoop=
+storm-core-1.1.0.pom>apache-hadoop=

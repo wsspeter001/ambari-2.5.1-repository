@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 11:17:38 PST 2017
+log4j-1.2.12.jar>alimaven=
+log4j-1.2.12.pom>alimaven=
+log4j-1.2.12.jar>maven2-repository.atlassian=
+log4j-1.2.12.pom>maven2-repository.atlassian=

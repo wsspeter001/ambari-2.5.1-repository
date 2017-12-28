@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:48:20 PST 2017
+gson-2.2.2.pom>oss.sonatype.org=
+gson-2.2.2.pom>apache-hadoop=
+gson-2.2.2.jar>apache-hadoop=
+gson-2.2.2.jar>oss.sonatype.org=

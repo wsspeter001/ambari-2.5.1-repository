@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:47:29 PST 2017
+javax.inject-1.pom>maven2-repository.atlassian=
+javax.inject-1.pom>apache-hadoop=
+javax.inject-1.jar>maven2-repository.atlassian=
+javax.inject-1.jar>apache-hadoop=
+javax.inject-1.jar>alimaven=
+javax.inject-1.pom>alimaven=

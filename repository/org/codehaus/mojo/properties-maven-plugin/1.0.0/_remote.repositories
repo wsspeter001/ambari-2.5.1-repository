@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 03:20:57 PST 2017
+properties-maven-plugin-1.0.0.jar>maven2-repository.atlassian=
+properties-maven-plugin-1.0.0.pom>maven2-repository.atlassian=
+properties-maven-plugin-1.0.0.jar>oss.sonatype.org=
+properties-maven-plugin-1.0.0.pom>oss.sonatype.org=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 03:21:10 PST 2017
+copy-rename-maven-plugin-1.0.1.pom>oss.sonatype.org=
+copy-rename-maven-plugin-1.0.1.jar>maven2-repository.atlassian=
+copy-rename-maven-plugin-1.0.1.jar>oss.sonatype.org=
+copy-rename-maven-plugin-1.0.1.pom>maven2-repository.atlassian=

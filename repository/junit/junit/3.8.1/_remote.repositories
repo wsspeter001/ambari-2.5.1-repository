@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 11:31:49 PST 2017
+junit-3.8.1.jar>maven2-repository.atlassian=
+junit-3.8.1.pom>maven2-repository.atlassian=
+junit-3.8.1.pom>apache-hadoop=
+junit-3.8.1.jar>alimaven=

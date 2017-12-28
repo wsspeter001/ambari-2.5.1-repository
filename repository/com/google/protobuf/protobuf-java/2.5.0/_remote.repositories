@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:50:24 PST 2017
+protobuf-java-2.5.0.pom>alimaven=
+protobuf-java-2.5.0.pom>apache-hadoop=
+protobuf-java-2.5.0.jar>apache-hadoop=
+protobuf-java-2.5.0.jar>alimaven=

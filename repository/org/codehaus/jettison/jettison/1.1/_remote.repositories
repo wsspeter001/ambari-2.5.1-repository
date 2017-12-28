@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 03:24:06 PST 2017
+jettison-1.1.pom>apache-hadoop=
+jettison-1.1.jar>apache-hadoop=
+jettison-1.1.jar>oss.sonatype.org=
+jettison-1.1.pom>oss.sonatype.org=

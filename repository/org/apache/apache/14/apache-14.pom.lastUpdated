@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 09:11:03 PST 2017
+https\://oss.sonatype.org/content/groups/staging/.error=
+http\://download.java.net/maven/glassfish/.lastUpdated=1514222957726
+http\://download.java.net/maven/2/.lastUpdated=1514222956683
+http\://download.java.net/maven/glassfish/.error=
+http\://repo.spring.io/milestone/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1514285263300
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1514285263045
+http\://repo.hortonworks.com/content/groups/public/.lastUpdated=1514229611606
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1514308263081
+https\://maven.atlassian.com/repository/public/.lastUpdated=1514222958785
+https\://repository.apache.org/content/groups/staging/.lastUpdated=1514285264337

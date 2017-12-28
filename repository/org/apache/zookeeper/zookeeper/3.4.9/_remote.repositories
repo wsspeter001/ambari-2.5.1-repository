@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 03:23:52 PST 2017
+zookeeper-3.4.9.pom>ASF\ Staging=
+zookeeper-3.4.9.pom>apache-hadoop=
+zookeeper-3.4.9.jar>apache-hadoop=
+zookeeper-3.4.9.jar>ASF\ Staging=

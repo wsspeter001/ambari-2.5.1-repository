@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:49:16 PST 2017
+commons-httpclient-3.1.jar>alimaven=
+commons-httpclient-3.1.pom>alimaven=
+commons-httpclient-3.1.pom>apache-hadoop=
+commons-httpclient-3.1.jar>apache-hadoop=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 25 10:11:25 PST 2017
+maven-deploy-plugin-2.7.jar>alimaven=
+maven-deploy-plugin-2.7.jar>maven2-repository.atlassian=
+maven-deploy-plugin-2.7.pom>alimaven=
+maven-deploy-plugin-2.7.pom>maven2-repository.atlassian=

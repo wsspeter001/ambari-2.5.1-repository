@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 04:20:21 PST 2017
+snakeyaml-1.12.jar>oss.sonatype.org=
+snakeyaml-1.12.pom>apache-hadoop=
+snakeyaml-1.12.jar>apache-hadoop=

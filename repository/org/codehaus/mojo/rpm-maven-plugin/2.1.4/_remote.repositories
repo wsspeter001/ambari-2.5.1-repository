@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 03:21:02 PST 2017
+rpm-maven-plugin-2.1.4.pom>oss.sonatype.org=
+rpm-maven-plugin-2.1.4.jar>maven2-repository.atlassian=
+rpm-maven-plugin-2.1.4.pom>maven2-repository.atlassian=
+rpm-maven-plugin-2.1.4.jar>oss.sonatype.org=

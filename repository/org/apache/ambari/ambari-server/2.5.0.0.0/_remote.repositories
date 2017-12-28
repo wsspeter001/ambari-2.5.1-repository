@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 10:01:26 PST 2017
+ambari-server-2.5.0.0.0.jar>=
+ambari-server-2.5.0.0.0-dist.tar.gz>=
+ambari-server-2.5.0.0.0.pom>=
+ambari-server-2.5.0.0.0-tests.jar>=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 26 02:48:12 PST 2017
+jackson-core-asl-1.9.9.pom>apache-hadoop=
+jackson-core-asl-1.9.9.jar>apache-hadoop=
+jackson-core-asl-1.9.9.jar>oss.sonatype.org=
+jackson-core-asl-1.9.9.pom>oss.sonatype.org=
